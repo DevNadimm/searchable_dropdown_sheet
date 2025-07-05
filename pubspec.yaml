@@ -1,0 +1,28 @@
+name: searchable_dropdown_sheet
+description: A customizable, searchable modal dropdown sheet for Flutter using modal_bottom_sheet.
+version: 0.0.1
+homepage: https://github.com/DevNadimm/searchable_dropdown_sheet
+repository: https://github.com/DevNadimm/searchable_dropdown_sheet
+issue_tracker: https://github.com/DevNadimm/searchable_dropdown_sheet/issues
+topics:
+  - modal
+  - dropdown
+  - searchable
+  - sheet
+  - flutter-ui
+
+environment:
+  sdk: ^3.3.0
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  modal_bottom_sheet: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
